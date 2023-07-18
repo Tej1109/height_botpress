@@ -1,0 +1,13 @@
+#bp-web-widget-container {
+width:70%;
+}
+#bp-web-widget-container .bp-widget-web {
+position:absolute !important;
+top:8.7rem;
+left:6.55rem;
+bottom:50px;
+height: 78vh !important;
+}
+besides adding those 2 Customization Variables
+containerWidth: ‘65%25’,
+layoutWidth: ‘100%25’,
